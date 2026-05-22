@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG Banner — replace URL if you want a custom banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B2E,100:7B2FF7&height=220&section=header&text=v1ynlee&fontSize=72&fontColor=9D4EDD&fontAlignY=33&desc=Full-Stack Developer%20%7C%20Security%20Enthusiast&descSize=18&descColor=C77DFF&descAlignY=55&animation=fadeIn&stroke=9D4EDD&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B2E,100:7B2FF7&height=220&section=header&text=v1ynlee&fontSize=72&fontColor=9D4EDD&fontAlignY=33&desc=Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descSize=18&descColor=C77DFF&descAlignY=55&animation=fadeIn&stroke=9D4EDD&strokeWidth=1" />
 
 <!-- Typing SVG — customize the line strings below -->
 <a href="https://git.io/typing-svg">
@@ -15,14 +15,17 @@
 
 ### `>> cat /etc/profile`
 
-```yaml
-alias: v1ynlee
-role: Reverse Engineer | Full-Stack Developer | Security & IT Enthusiast
-location: 127.0.0.1
-languages: Python, JavaScript, PHP, Kotlin, Ruby, Bash
-toolkit: Radare2, Docker, Linux, Git, MySQL, Supabase, Heroku
-focus: Reverse Engineering · Application Security · Open Source
-motto: "If you know the enemy and know yourself, you need not fear."
+```console
+v1ynlee@github:~$ neofetch
+
+OS: Arch Linux
+Role: Reverse Engineer / Full-Stack Developer
+Focus: Application Security & Open Source
+Languages: Python, JS, PHP, Kotlin, Ruby
+Tools: Radare2, Docker, Git, Linux
+Location: 127.0.0.1
+
+Status: Building weird things on the internet...
 ```
 
 <p align="center">
